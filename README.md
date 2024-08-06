@@ -71,8 +71,7 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Push to the branch (`git push origin feature-branch`)
 6. Create a Pull Request
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me at [princeiitpatnacs62@gmail.com].
