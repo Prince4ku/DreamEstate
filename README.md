@@ -19,6 +19,7 @@ This is a comprehensive real estate project designed to provide users with detai
 - Property listings with detailed information
 - Search functionality by various criteria (location, price, size, etc.)
 - Interactive maps to view property locations
+- Chat functionality for user inquiries and support using Socket.io
 
 
 ## Technologies Used
