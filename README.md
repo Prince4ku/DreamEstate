@@ -40,12 +40,12 @@ This is a comprehensive real estate project designed to provide users with detai
     ```
 3. **Install dependencies for the backend**
     ```bash
-    cd backend
+    cd api
     npm install
     ```
 4. **Install dependencies for the frontend**
     ```bash
-    cd ../frontend
+    cd ../client
     npm install
     ```
 
